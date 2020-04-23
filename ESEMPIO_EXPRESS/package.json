@@ -1,15 +1,24 @@
 {
   "name": "bello",
   "version": "1.0.0",
-  "description": "",
+  "description": "sito",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "chambergo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamjoel/CHAMBERGO_EXPRESS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chamjoel/CHAMBERGO_EXPRESS/issues"
+  },
+  "homepage": "https://github.com/chamjoel/CHAMBERGO_EXPRESS#readme"
 }

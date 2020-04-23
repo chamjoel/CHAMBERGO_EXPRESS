@@ -1,15 +1,25 @@
 {
-  "name": "bello",
+  "name": "express_static_files",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "secondo e terzo file",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "start"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeMero/Express_Mero.git"
+  },
+  "keywords": [
+    "maybr"
+  ],
+  "author": "Maybe Mero",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaybeMero/Express_Mero/issues"
+  },
+  "homepage": "https://github.com/MaybeMero/Express_Mero#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.3"
+    "express": "^4.17.1"
   }
 }
