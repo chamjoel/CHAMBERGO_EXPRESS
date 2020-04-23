@@ -1,25 +1,24 @@
 {
-  "name": "express_static_files",
+  "name": "bello",
   "version": "1.0.0",
-  "description": "secondo e terzo file",
-  "main": "app.js",
+  "description": "sito",
+  "main": "index.js",
   "scripts": {
-    "test": "start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "chambergo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaybeMero/Express_Mero.git"
+    "url": "git+https://github.com/chamjoel/CHAMBERGO_EXPRESS.git"
   },
-  "keywords": [
-    "maybr"
-  ],
-  "author": "Maybe Mero",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaybeMero/Express_Mero/issues"
+    "url": "https://github.com/chamjoel/CHAMBERGO_EXPRESS/issues"
   },
-  "homepage": "https://github.com/MaybeMero/Express_Mero#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/chamjoel/CHAMBERGO_EXPRESS#readme"
 }
